@@ -8,7 +8,7 @@ conheceremos seu estilo de código, aptidões técnicas, seus hard skills e, sob
 resolução de problemas =) .
 
 ## Objetivo Geral:
-Desenvolver uma aplicação Full Stack que receba um arquivo desnormalizado via API REST, processe-o para normalizá-lo conforme as especificações fornecidas e, em seguida, apresente os dados normalizados em um layout de frontend conforme o design fornecido.
+Desenvolver uma aplicação Full Stack que receba um arquivo desnormalizado através do upload de arquivos e via API REST, processe-o para normalizá-lo conforme as especificações fornecidas e, em seguida, apresente os dados normalizados em um layout de frontend conforme o design fornecido.
 
 ## Componentes do Desafio:
 ### Backend:
